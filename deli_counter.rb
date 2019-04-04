@@ -16,4 +16,5 @@ end
 
 def take_a_bumber(arr, str)
   arr << str
+  puts ""
 end
