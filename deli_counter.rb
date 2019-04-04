@@ -16,5 +16,5 @@ end
 
 def take_a_bumber(arr, name)
   arr << name
-  puts "Welcome, #{name}. You are number #{arr.length + 1} in line."
+  puts "Welcome, #{name}. You are number #{arr.length} in line."
 end
