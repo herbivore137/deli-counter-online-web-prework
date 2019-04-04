@@ -21,7 +21,7 @@ end
 
 def now_serving(arr)
   if arr.size != 0
-    arr.unshift()
+    arr.shift
   else 
     puts "There is nobody waiting to be served!"
   
