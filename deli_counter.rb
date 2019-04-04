@@ -20,6 +20,9 @@ def take_a_number(arr, name)
 end
 
 def now_serving(arr)
-  
+  if arr.size != 0
+    #do this 
+  else 
+    puts "There is nobody waiting to be served!"
   
 end
