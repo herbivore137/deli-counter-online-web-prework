@@ -1,7 +1,6 @@
 katz_deli = []
 
 def line(arr)
-  
   if arr.size != 0 
     counter = 1
     str = "The line is currently:"
