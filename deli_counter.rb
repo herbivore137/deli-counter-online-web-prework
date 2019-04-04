@@ -14,3 +14,6 @@ def line(arr)
   end
 end
 
+def take_a_bumber(arr, str)
+  arr << str
+end
