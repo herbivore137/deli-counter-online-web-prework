@@ -14,7 +14,7 @@ def line(arr)
   end
 end
 
-def take_a_bumber(arr, str)
-  arr << str
-  puts ""
+def take_a_bumber(arr, name)
+  arr << name
+  puts "Welcome, #{name}. You are number #{arr.} in line."
 end
